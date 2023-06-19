@@ -10,7 +10,12 @@ border:inherit;
 border: 6px double pink
 }
 img{
-    width: 150;
+    width: 150px;
+    border: 7px solid red;
+    padding: 20px;
+
+    background-color: aqua;
+    margin: 50px;
 }
 
 
