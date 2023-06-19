@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   <link rel="stylesheet" href="static/styles/style.css">
+</head>
+<!--zametka-->
+<body>
+    <body class="border">
+<img src="./images/pexels-anjana-c-674010.jpg" alt im1>
+<img src="./images/pexels-pixabay-268533.jpg" alt img2>
+<img src="./images/photo-1503023345310-bd7c1de61c7d.jpeg" alt img3>
+
+    </body>
+    <main>
+
+<article class="main-article">
+    <h2 class="main article__heading">title</h2>
+    <p class="lorem"></p>
+</article>
+
+    </main>
